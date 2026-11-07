@@ -1,2 +1,2 @@
 # Mechanikos
-AI model that should be able to acesss damage on a vechicle via analiding images 
+AI model that should be able to acesss if an image is fake or altered using AI
