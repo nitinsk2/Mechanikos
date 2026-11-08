@@ -1,0 +1,38 @@
+# environments and caches
+.venv/
+__pycache__/
+*.pyc
+.idea/
+.env
+
+# data folders
+data/
+staging/
+returns*/
+features/
+raw/
+donors/
+demo/
+masks/
+damage_detector_v3/
+
+# every image, anywhere
+*.png
+*.jpg
+*.jpeg
+*.webp
+*.bmp
+*.gif
+*.tif
+*.tiff
+
+# big binary files
+*.zip
+*.npy
+*.npz
+*.pt
+*.safetensors
+
+# allow the README figures back in
+!figures/
+!figures/*.png

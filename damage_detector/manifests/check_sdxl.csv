@@ -1,0 +1,4 @@
+file,problem
+base_0015_rt_sdxl.png,too different for a round trip (mean change 21.6)
+base_0078_e1_sdxl.png,edit is too weak inside the mask (mean change 4.7)
+base_0426_rt_sdxl.png,too different for a round trip (mean change 22.3)

@@ -1,0 +1,16 @@
+{
+ "main": {
+  "gens": [
+   "kontext"
+  ],
+  "C": 0.1,
+  "val_auc": 0.9857,
+  "threshold": 0.3995,
+  "domain_balance": true,
+  "val_false_flag_real": 0.0154,
+  "val_false_flag_base_original": 0.0625,
+  "val_false_flag_real_damaged": 0.0102,
+  "val_recall_paste_back": 0.8889,
+  "val_recall_whole_edit": 1.0
+ }
+}
